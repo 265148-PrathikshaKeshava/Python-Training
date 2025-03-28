@@ -1,0 +1,1 @@
+from .strops import getSpan,removePunc,reverseWords,countWords,characterMaps,makeTitle,normalizeSpace
