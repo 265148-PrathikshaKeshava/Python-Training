@@ -1,0 +1,23 @@
+RegID      Name            PHYSICS    CHEMISTRY  MATHS      BIOLOGY    AVERAGE    Rank 
+----------------------------------------------------------------------------------------------------
+CAP007     Ankita          99         99         99         99         99.0       1    
+
+INF007     Ankita          99         99         99         99         99.0       1    
+
+HPE001     Vijay           99         98         97         96         97.5       2    
+
+HPE003     Muni            97         98         97         94         96.5       3    
+
+HPE006     Grace           94         95         96         97         95.5       4    
+
+ORA006     Grace           94         95         96         97         95.5       4    
+
+HPE004     Abhi            96         93         97         95         95.25      5    
+
+HPE008     John            96         93         97         95         95.25      5    
+
+HPE002     Aryan           98         91         93         96         94.5       6    
+
+HPE005     Hemanth         94         91         93         96         93.5       7    
+
+HPE009     Chris           94         91         93         96         93.5       7    
